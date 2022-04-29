@@ -1,14 +1,12 @@
 // Programmer: Jonathan Hill
-// Class: CS 141
 // Date: 11/8/21
-// Assignment: Lab 4 (Guessing Game)
+// (Guessing Game)
 // Purpose:  This program will introduce a number guessing game to the user
 // and let the player know if there guess is higher or lower.  When the player
 // guesses correctly the game lets the player know that the guess was correct
 // and how many tries it took.  The player can play as many games as they like
 // and when they're done the program will give them some stats about the games they
 // played.
-// For extra credit I used printf in my program.
 
 import java.util.Scanner;
 import java.util.*;
